@@ -1,4 +1,4 @@
-package db;
+package adapter.task3;
 
 public class БазаДаних {
     public String отриматиДаніКористувача() {
